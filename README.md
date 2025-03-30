@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# actv8
-El personaje deberá hacer lo siguiente:  Idle (animación estática) Walk (incluye el comportamiento de caminar a izquierda y derecha sin dejar de ver hacia la derecha. Jump (incluye el comportamiento de saltar) Hit Jump hit Double jump Crouch (incluye el comportamiento de agacharse)
-=======
-# actv8
-El personaje deberá hacer lo siguiente:  Idle (animación estática) Walk (incluye el comportamiento de caminar a izquierda y derecha sin dejar de ver hacia la derecha. Jump (incluye el comportamiento de saltar) Hit Jump hit Double jump Crouch (incluye el comportamiento de agacharse)
->>>>>>> 5db47f8 (Initial commit)
+El sistema de animaciones y movimiento del personaje funciona mediante la interacción entre el código de control y el Animator de Unity. El código captura las entradas del jugador, como el movimiento horizontal con las teclas A/D o flechas, y las acciones de salto con la barra espaciadora. Estas entradas modifican variables internas, como la velocidad horizontal y el estado de salto, que se traducen en fuerzas aplicadas al Rigidbody2D para mover al personaje de manera realista, respetando las leyes de la física del motor.
+
+Las animaciones se gestionan a través de parámetros definidos en el Animator Controller. Por ejemplo, el parámetro "Speed" refleja la magnitud del movimiento horizontal: si el valor es cercano a cero, se reproduce la animación de Idle; si supera un umbral, se activa la animación de caminar. Cuando el jugador salta, el código detecta si está en el suelo y activa un trigger "Jump", que desencadena la animación de salto. Si el jugador realiza un segundo salto en el aire, otro trigger "DoubleJump" asegura que se muestre la animación correspondiente.
+
+La detección del suelo se realiza mediante un círculo invisible (groundCheck) en la base del personaje. Si este círculo colisiona con objetos en la capa designada como suelo, el parámetro "IsGrounded" se actualiza, permitiendo transiciones fluidas entre animaciones de salto y aterrizaje. Al agacharse, el parámetro "IsCrouching" bloquea el movimiento horizontal y activa la animación de agacharse.
+
+El volteo del sprite (para mirar izquierda/derecha) se controla invirtiendo la escala en el eje X, manteniendo la coherencia visual sin afectar la física. Cada acción del jugador sincroniza las variables del código con los parámetros del Animator, creando una experiencia donde las animaciones responden de manera natural a las mecánicas de juego.
