@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 9097e417de151f64e9c0391f032c29d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8060802029201279897
+    second: knock to stun_0
+  - first:
+      213: -5424158638991865500
+    second: knock to stun_1
+  - first:
+      213: 3878223432301048494
+    second: knock to stun_2
+  - first:
+      213: 4293258202412366478
+    second: knock to stun_3
+  - first:
+      213: -6978131922957529647
+    second: knock to stun_4
+  - first:
+      213: -7849628092853333291
+    second: knock to stun_5
+  - first:
+      213: 6889321865619444944
+    second: knock to stun_6
+  - first:
+      213: -8385779408757683742
+    second: knock to stun_7
+  - first:
+      213: 8951686177578355934
+    second: knock to stun_8
+  - first:
+      213: -7974103455133891562
+    second: knock to stun_9
+  - first:
+      213: -8369541914512342290
+    second: knock to stun_10
+  - first:
+      213: -5125882346088005352
+    second: knock to stun_11
+  - first:
+      213: -2329888687508900823
+    second: knock to stun_12
+  - first:
+      213: 15579324996382960
+    second: knock to stun_13
+  - first:
+      213: 2894256572726246079
+    second: knock to stun_14
+  - first:
+      213: 5629332776776629408
+    second: knock to stun_15
+  - first:
+      213: -1248259786244436186
+    second: knock to stun_16
+  - first:
+      213: 3511606724444706032
+    second: knock to stun_17
+  - first:
+      213: -7367638533797954021
+    second: knock to stun_18
+  - first:
+      213: 5411050444059569788
+    second: knock to stun_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knock to stun_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1856
+        width: 459
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764b5bc2347422090800000000000000
+      internalID: -8060802029201279897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1853
+        width: 431
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469068dc47489b4b0800000000000000
+      internalID: -5424158638991865500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_2
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1851
+        width: 410
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea276e9f9a732d530800000000000000
+      internalID: 3878223432301048494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_3
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1848
+        width: 386
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a32d3a697b49b30800000000000000
+      internalID: 4293258202412366478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_4
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1845
+        width: 361
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd8d40ecf1b82f90800000000000000
+      internalID: -6978131922957529647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_5
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 1844
+        width: 347
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2dc82b6d4801390800000000000000
+      internalID: -7849628092853333291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1242
+        width: 341
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4149f4cb9cb9f50800000000000000
+      internalID: 6889321865619444944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1241
+        width: 336
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e98638be0abf9b80800000000000000
+      internalID: -8385779408757683742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_8
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1239
+        width: 330
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc05538627ca3c70800000000000000
+      internalID: 8951686177578355934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_9
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1238
+        width: 324
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614878af72b465190800000000000000
+      internalID: -7974103455133891562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_10
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1240
+        width: 313
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2cfb4f8f969db80800000000000000
+      internalID: -8369541914512342290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_11
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1242
+        width: 300
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118af01a253dd8b0800000000000000
+      internalID: -5125882346088005352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 644
+        width: 288
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924b4de35929aafd0800000000000000
+      internalID: -2329888687508900823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 644
+        width: 283
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ff344059573000800000000000000
+      internalID: 15579324996382960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 644
+        width: 280
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaff2ab4077a2820800000000000000
+      internalID: 2894256572726246079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_15
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 651
+        width: 257
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acfb32c5586f1e40800000000000000
+      internalID: 5629332776776629408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_16
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 656
+        width: 231
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fce75865a4daee0800000000000000
+      internalID: -1248259786244436186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_17
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 661
+        width: 207
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45669e5bbbbb030800000000000000
+      internalID: 3511606724444706032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 67
+        width: 184
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e3e77f9c3e0c990800000000000000
+      internalID: -7367638533797954021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knock to stun_19
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 71
+        width: 166
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee3ebb5b9e71b40800000000000000
+      internalID: 5411050444059569788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

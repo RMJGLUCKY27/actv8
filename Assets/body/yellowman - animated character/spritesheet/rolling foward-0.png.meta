@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 0a40d65bf82091a45af64c3505ae011a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -203253574601390046
+    second: rolling foward-0_0
+  - first:
+      213: -7825108751854583957
+    second: rolling foward-0_1
+  - first:
+      213: -2852337421450636308
+    second: rolling foward-0_2
+  - first:
+      213: -3465762577027639081
+    second: rolling foward-0_3
+  - first:
+      213: -4225067662542316244
+    second: rolling foward-0_4
+  - first:
+      213: -174401022754034749
+    second: rolling foward-0_5
+  - first:
+      213: -9215664019456878292
+    second: rolling foward-0_6
+  - first:
+      213: -1436470255909529170
+    second: rolling foward-0_7
+  - first:
+      213: -2906808621850164252
+    second: rolling foward-0_8
+  - first:
+      213: -868593437765708840
+    second: rolling foward-0_9
+  - first:
+      213: 6171871133080055655
+    second: rolling foward-0_10
+  - first:
+      213: 3433735474797847252
+    second: rolling foward-0_11
+  - first:
+      213: 8694828088781859513
+    second: rolling foward-0_12
+  - first:
+      213: 5361209345720526061
+    second: rolling foward-0_13
+  - first:
+      213: -4809620513933763832
+    second: rolling foward-0_14
+  - first:
+      213: 8490571474510387996
+    second: rolling foward-0_15
+  - first:
+      213: 9186772573200954820
+    second: rolling foward-0_16
+  - first:
+      213: -1531951581171258739
+    second: rolling foward-0_17
+  - first:
+      213: -1756816780048856569
+    second: rolling foward-0_18
+  - first:
+      213: -6530368952480362863
+    second: rolling foward-0_19
+  - first:
+      213: 1987997939720240748
+    second: rolling foward-0_20
+  - first:
+      213: -1842195111299322340
+    second: rolling foward-0_21
+  - first:
+      213: -711880720161864951
+    second: rolling foward-0_22
+  - first:
+      213: 9201211102584162919
+    second: rolling foward-0_23
+  - first:
+      213: 6512882489529804692
+    second: rolling foward-0_24
+  - first:
+      213: -5072990470904811729
+    second: rolling foward-0_25
+  - first:
+      213: 5865941415529128204
+    second: rolling foward-0_26
+  - first:
+      213: 3680788193521097456
+    second: rolling foward-0_27
+  - first:
+      213: 5998417055874012541
+    second: rolling foward-0_28
+  - first:
+      213: -470085273817319199
+    second: rolling foward-0_29
+  - first:
+      213: -1989426593321836211
+    second: rolling foward-0_30
+  - first:
+      213: -6192943982599017702
+    second: rolling foward-0_31
+  - first:
+      213: 6212485338260851433
+    second: rolling foward-0_32
+  - first:
+      213: 1715459380922527856
+    second: rolling foward-0_33
+  - first:
+      213: 4205287782297802996
+    second: rolling foward-0_34
+  - first:
+      213: -3507906109302868126
+    second: rolling foward-0_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rolling foward-0_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3071
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2284e8663f5ed2df0800000000000000
+      internalID: -203253574601390046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3072
+        width: 207
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f38e4ac01a76390800000000000000
+      internalID: -7825108751854583957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_2
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3073
+        width: 221
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce391ee3a367a68d0800000000000000
+      internalID: -2852337421450636308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_3
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 3074
+        width: 235
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8dc607c4327efc0800000000000000
+      internalID: -3465762577027639081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_4
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3074
+        width: 247
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ddc26a85b8d55c0800000000000000
+      internalID: -4225067662542316244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_5
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 3069
+        width: 300
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe74e9137649df0800000000000000
+      internalID: -174401022754034749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2469
+        width: 350
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c299ce6a6626b1080800000000000000
+      internalID: -9215664019456878292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2498
+        width: 373
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9191ab9e1a01ce0800000000000000
+      internalID: -1436470255909529170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_8
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2528
+        width: 405
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3049895f0f8a7d0800000000000000
+      internalID: -2906808621850164252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_9
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 2559
+        width: 440
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35dbfced222f3f0800000000000000
+      internalID: -868593437765708840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_10
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 2570
+        width: 429
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f69b67814e6a550800000000000000
+      internalID: 6171871133080055655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_11
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2580
+        width: 418
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2abfbb83417af20800000000000000
+      internalID: 3433735474797847252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1950
+        width: 409
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba6eee541c3aa870800000000000000
+      internalID: 8694828088781859513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_13
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1910
+        width: 401
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42d2abe77d66a40800000000000000
+      internalID: 5361209345720526061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_14
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1872
+        width: 398
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bdb8200abc04db0800000000000000
+      internalID: -4809620513933763832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_15
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1864
+        width: 369
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b914665c194d570800000000000000
+      internalID: 8490571474510387996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_16
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1857
+        width: 338
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5b1f15bf8fd7f70800000000000000
+      internalID: 9186772573200954820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_17
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 1850
+        width: 310
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a603f472a6dbae0800000000000000
+      internalID: -1531951581171258739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1249
+        width: 274
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a0eb152788e97e0800000000000000
+      internalID: -1756816780048856569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_19
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1250
+        width: 236
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0b2f79087f55a0800000000000000
+      internalID: -6530368952480362863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_20
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1245
+        width: 195
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebb33e799c69b10800000000000000
+      internalID: 1987997939720240748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_21
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1241
+        width: 161
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eea008e453f66e0800000000000000
+      internalID: -1842195111299322340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_22
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1245
+        width: 123
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038d48b144ee16f0800000000000000
+      internalID: -711880720161864951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_23
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 1246
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac8e86fb441bf70800000000000000
+      internalID: 9201211102584162919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 657
+        width: 187
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49729441e18626a50800000000000000
+      internalID: 6512882489529804692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_25
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 653
+        width: 250
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fe6c86b0e1999b0800000000000000
+      internalID: -5072990470904811729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_26
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 667
+        width: 240
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01add963a2086150800000000000000
+      internalID: 5865941415529128204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_27
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 656
+        width: 232
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fad6404c59c41330800000000000000
+      internalID: 3680788193521097456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_28
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 664
+        width: 173
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d3060888ae3350800000000000000
+      internalID: 5998417055874012541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_29
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 660
+        width: 126
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f9ff1febe979f0800000000000000
+      internalID: -470085273817319199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_30
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 61
+        width: 128
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d412656cd032464e0800000000000000
+      internalID: -1989426593321836211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_31
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 62
+        width: 133
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bea4b624e3e0aa0800000000000000
+      internalID: -6192943982599017702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_32
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 64
+        width: 149
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea4c5fff7e273650800000000000000
+      internalID: 6212485338260851433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_33
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 65
+        width: 164
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070bf72d7398ec710800000000000000
+      internalID: 1715459380922527856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_34
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 66
+        width: 179
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8962a15fe2c5a30800000000000000
+      internalID: 4205287782297802996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rolling foward-0_35
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 67
+        width: 182
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677491baf9615fc0800000000000000
+      internalID: -3507906109302868126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 3c2c563c741ce444f950f924f87895a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5690176098927669864
+    second: stand high kick_0
+  - first:
+      213: -5152301144926557345
+    second: stand high kick_1
+  - first:
+      213: -78546187776360714
+    second: stand high kick_2
+  - first:
+      213: -1699209433103724025
+    second: stand high kick_3
+  - first:
+      213: 7335433680208612224
+    second: stand high kick_4
+  - first:
+      213: -7411144097218597434
+    second: stand high kick_5
+  - first:
+      213: 857305750814542561
+    second: stand high kick_6
+  - first:
+      213: -2557646953399773463
+    second: stand high kick_7
+  - first:
+      213: -2110020811663701580
+    second: stand high kick_8
+  - first:
+      213: 5848789032419515194
+    second: stand high kick_9
+  - first:
+      213: -4316663241377599030
+    second: stand high kick_10
+  - first:
+      213: -5917859644691816127
+    second: stand high kick_11
+  - first:
+      213: 8578320840183769550
+    second: stand high kick_12
+  - first:
+      213: 8203438871455151950
+    second: stand high kick_13
+  - first:
+      213: -7114190069447944140
+    second: stand high kick_14
+  - first:
+      213: -4068880012553707907
+    second: stand high kick_15
+  - first:
+      213: 6041370796373702489
+    second: stand high kick_16
+  - first:
+      213: -8680349436523324997
+    second: stand high kick_17
+  - first:
+      213: -5711133089519198172
+    second: stand high kick_18
+  - first:
+      213: -9011312400324957314
+    second: stand high kick_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stand high kick_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1871
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d8ff16cfe6801b0800000000000000
+      internalID: -5690176098927669864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1867
+        width: 215
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b60d028695f78b0800000000000000
+      internalID: -5152301144926557345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_2
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1864
+        width: 216
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fef02b88a2f8eef0800000000000000
+      internalID: -78546187776360714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_3
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1863
+        width: 217
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021cdcf5023b68e0800000000000000
+      internalID: -1699209433103724025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_4
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1865
+        width: 216
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b454e3112bcc560800000000000000
+      internalID: 7335433680208612224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_5
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 1874
+        width: 187
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd6d02a5b3562990800000000000000
+      internalID: -7411144097218597434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1274
+        width: 186
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4335c903c5eb00800000000000000
+      internalID: 857305750814542561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1274
+        width: 242
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61fb995a9618cd0800000000000000
+      internalID: -2557646953399773463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_8
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1274
+        width: 285
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98a1c4043b7b2e0800000000000000
+      internalID: -2110020811663701580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_9
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1274
+        width: 291
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd09303a21b2150800000000000000
+      internalID: 5848789032419515194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_10
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1274
+        width: 284
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1b3b217a12814c0800000000000000
+      internalID: -4316663241377599030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_11
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1274
+        width: 249
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141668fd10a8fdda0800000000000000
+      internalID: -5917859644691816127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 674
+        width: 239
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9eb70ba515c0770800000000000000
+      internalID: 8578320840183769550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 674
+        width: 215
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4737bd903878d170800000000000000
+      internalID: 8203438871455151950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_14
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 674
+        width: 188
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43891fd03d1554d90800000000000000
+      internalID: -7114190069447944140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_15
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 674
+        width: 189
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e9c0abf2f6887c0800000000000000
+      internalID: -4068880012553707907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_16
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 674
+        width: 190
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957f5421bb247d350800000000000000
+      internalID: 6041370796373702489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_17
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 674
+        width: 194
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d3cd8d24398780800000000000000
+      internalID: -8680349436523324997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 74
+        width: 203
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420aa36c6bafdb0b0800000000000000
+      internalID: -5711133089519198172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stand high kick_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 71
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bee8aad1361f280800000000000000
+      internalID: -9011312400324957314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

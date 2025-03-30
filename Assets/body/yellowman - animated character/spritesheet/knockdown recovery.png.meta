@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 8958f1cf52901d94e8d93add7a2fa59d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 373979976825560382
+    second: knockdown recovery_0
+  - first:
+      213: 1962585951002445960
+    second: knockdown recovery_1
+  - first:
+      213: -1038391243755343089
+    second: knockdown recovery_2
+  - first:
+      213: -7381746630727424338
+    second: knockdown recovery_3
+  - first:
+      213: -4103480118705106613
+    second: knockdown recovery_4
+  - first:
+      213: 3282724862659373648
+    second: knockdown recovery_5
+  - first:
+      213: -1756810395934206006
+    second: knockdown recovery_6
+  - first:
+      213: -6832497951924237136
+    second: knockdown recovery_7
+  - first:
+      213: -1102280363629618817
+    second: knockdown recovery_8
+  - first:
+      213: 9147187508333751112
+    second: knockdown recovery_9
+  - first:
+      213: -8276364235078610438
+    second: knockdown recovery_10
+  - first:
+      213: 2393906109923733841
+    second: knockdown recovery_11
+  - first:
+      213: -4287965909807730962
+    second: knockdown recovery_12
+  - first:
+      213: -1822533233791229537
+    second: knockdown recovery_13
+  - first:
+      213: 1425579755806446732
+    second: knockdown recovery_14
+  - first:
+      213: -8596100473947990626
+    second: knockdown recovery_15
+  - first:
+      213: -7971707413164508381
+    second: knockdown recovery_16
+  - first:
+      213: 7782593562328078588
+    second: knockdown recovery_17
+  - first:
+      213: -773812008483290807
+    second: knockdown recovery_18
+  - first:
+      213: -8878944248289693580
+    second: knockdown recovery_19
+  - first:
+      213: 3742814489765969391
+    second: knockdown recovery_20
+  - first:
+      213: 8918074017036924963
+    second: knockdown recovery_21
+  - first:
+      213: -53064955551687889
+    second: knockdown recovery_22
+  - first:
+      213: 1824414818234022291
+    second: knockdown recovery_23
+  - first:
+      213: -3890217932479352092
+    second: knockdown recovery_24
+  - first:
+      213: 3449079918184615524
+    second: knockdown recovery_25
+  - first:
+      213: 4749552941458883260
+    second: knockdown recovery_26
+  - first:
+      213: 4339113382528549995
+    second: knockdown recovery_27
+  - first:
+      213: -302135764301887221
+    second: knockdown recovery_28
+  - first:
+      213: 2462171554367676026
+    second: knockdown recovery_29
+  - first:
+      213: 5246515967566557983
+    second: knockdown recovery_30
+  - first:
+      213: 1307746313396170103
+    second: knockdown recovery_31
+  - first:
+      213: -8174851207679341201
+    second: knockdown recovery_32
+  - first:
+      213: 4830369634385610249
+    second: knockdown recovery_33
+  - first:
+      213: -5941971830211944310
+    second: knockdown recovery_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knockdown recovery_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3056
+        width: 459
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ddbc7bec4a03500800000000000000
+      internalID: 373979976825560382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3053
+        width: 452
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8884ca236818c3b10800000000000000
+      internalID: 1962585951002445960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_2
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 3052
+        width: 444
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03361a5aa4e691f0800000000000000
+      internalID: -1038391243755343089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_3
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 3050
+        width: 434
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea62e8dac84ce8990800000000000000
+      internalID: -7381746630727424338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_4
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3049
+        width: 424
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4154bdb2928d07c0800000000000000
+      internalID: -4103480118705106613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_5
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3049
+        width: 394
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa726bed49e8d20800000000000000
+      internalID: 3282724862659373648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2450
+        width: 367
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d0acb04e8e97e0800000000000000
+      internalID: -1756810395934206006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2450
+        width: 345
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc8f610571e21a0800000000000000
+      internalID: -6832497951924237136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_8
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2450
+        width: 322
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79d7f279d9e3b0f0800000000000000
+      internalID: -1102280363629618817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_9
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2450
+        width: 297
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84baf10339651fe70800000000000000
+      internalID: 9147187508333751112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_10
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2448
+        width: 275
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af154680492742d80800000000000000
+      internalID: -8276364235078610438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_11
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2446
+        width: 251
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15134ab6cecd83120800000000000000
+      internalID: 2393906109923733841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1844
+        width: 228
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeece049b51e74c0800000000000000
+      internalID: -4287965909807730962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1843
+        width: 206
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a7881eaf05b6e0800000000000000
+      internalID: -1822533233791229537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_14
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1841
+        width: 188
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d4df1c3da8c310800000000000000
+      internalID: 1425579755806446732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_15
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1845
+        width: 189
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9553ccb92484b880800000000000000
+      internalID: -8596100473947990626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_16
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1848
+        width: 197
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3bf8f75ece5190800000000000000
+      internalID: -7971707413164508381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_17
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1852
+        width: 194
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89ec96c93510c60800000000000000
+      internalID: 7782593562328078588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1274
+        width: 228
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9410c6ff31ed245f0800000000000000
+      internalID: -773812008483290807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1296
+        width: 272
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f134bf37a7c480800000000000000
+      internalID: -8878944248289693580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1318
+        width: 334
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed7faab2f521f330800000000000000
+      internalID: 3742814489765969391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_21
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1364
+        width: 359
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328702a811d53cb70800000000000000
+      internalID: 8918074017036924963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_22
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1410
+        width: 380
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bd15e34b9734ff0800000000000000
+      internalID: -53064955551687889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_23
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1354
+        width: 396
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3993ccb6c9f915910800000000000000
+      internalID: 1824414818234022291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 740
+        width: 372
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b6b3d66b230ac0800000000000000
+      internalID: -3890217932479352092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_25
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 711
+        width: 316
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec35d59e79ddf20800000000000000
+      internalID: 3449079918184615524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_26
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 674
+        width: 235
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2819d6c3dc9e140800000000000000
+      internalID: 4749552941458883260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_27
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 674
+        width: 208
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6402cdb1a0a73c30800000000000000
+      internalID: 4339113382528549995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_28
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 674
+        width: 255
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0948d68f199ecbf0800000000000000
+      internalID: -302135764301887221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_29
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 671
+        width: 212
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e182acbf36b2220800000000000000
+      internalID: 2462171554367676026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 71
+        width: 212
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13383ba97e5fc840800000000000000
+      internalID: 5246515967566557983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_31
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 71
+        width: 212
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2e42e75c062210800000000000000
+      internalID: 1307746313396170103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_32
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 71
+        width: 212
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d899a83281d8e80800000000000000
+      internalID: -8174851207679341201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_33
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 71
+        width: 212
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906436f079be80340800000000000000
+      internalID: 4830369634385610249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knockdown recovery_34
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 71
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80e6d23a10e98da0800000000000000
+      internalID: -5941971830211944310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

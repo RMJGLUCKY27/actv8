@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 7c8cafb0c8bf8d94495ddf3bbf7eb724
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 243404995414991479
+    second: jump kick_0
+  - first:
+      213: 3071187570960030286
+    second: jump kick_1
+  - first:
+      213: 6552002608329762149
+    second: jump kick_2
+  - first:
+      213: -8036851032923069961
+    second: jump kick_3
+  - first:
+      213: -2792135215410414085
+    second: jump kick_4
+  - first:
+      213: 9177871824222034816
+    second: jump kick_5
+  - first:
+      213: 8078512901960387330
+    second: jump kick_6
+  - first:
+      213: 2092798224445625583
+    second: jump kick_7
+  - first:
+      213: 1472381385527611505
+    second: jump kick_8
+  - first:
+      213: -2259284254598314535
+    second: jump kick_9
+  - first:
+      213: -2884948848357424149
+    second: jump kick_10
+  - first:
+      213: 4592784246663117342
+    second: jump kick_11
+  - first:
+      213: 7492519258128504062
+    second: jump kick_12
+  - first:
+      213: -1006619232147917548
+    second: jump kick_13
+  - first:
+      213: -3360735232561456638
+    second: jump kick_14
+  - first:
+      213: -1324055834745204453
+    second: jump kick_15
+  - first:
+      213: -2084443077498410758
+    second: jump kick_16
+  - first:
+      213: -3941315439900045022
+    second: jump kick_17
+  - first:
+      213: -6059561321420380227
+    second: jump kick_18
+  - first:
+      213: -150095178919555820
+    second: jump kick_19
+  - first:
+      213: 3434176297717265126
+    second: jump kick_20
+  - first:
+      213: 247106263328171177
+    second: jump kick_21
+  - first:
+      213: 9075474535811560186
+    second: jump kick_22
+  - first:
+      213: 7490620790920150221
+    second: jump kick_23
+  - first:
+      213: -5685952697472960935
+    second: jump kick_24
+  - first:
+      213: 5412687428830476716
+    second: jump kick_25
+  - first:
+      213: -350108774094410261
+    second: jump kick_26
+  - first:
+      213: -389161574388762851
+    second: jump kick_27
+  - first:
+      213: 8517361595626112867
+    second: jump kick_28
+  - first:
+      213: -6645433348093956545
+    second: jump kick_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump kick_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2471
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722440cd8fb06300800000000000000
+      internalID: 243404995414991479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2471
+        width: 212
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4adaade2dc0f9a20800000000000000
+      internalID: 3071187570960030286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_2
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2471
+        width: 212
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565ade488a36dea50800000000000000
+      internalID: 6552002608329762149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_3
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2471
+        width: 213
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a3ed019e577090800000000000000
+      internalID: -8036851032923069961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_4
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2471
+        width: 214
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd7a90a0d75049d0800000000000000
+      internalID: -2792135215410414085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_5
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 2477
+        width: 205
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b12d43cc95e5f70800000000000000
+      internalID: 9177871824222034816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1883
+        width: 207
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b42cabea4ac1070800000000000000
+      internalID: 8078512901960387330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1890
+        width: 210
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe456a2a5ec1b0d10800000000000000
+      internalID: 2092798224445625583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1900
+        width: 215
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705542b113fe6410800000000000000
+      internalID: 1472381385527611505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_9
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1911
+        width: 224
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5c80ec0f865a0e0800000000000000
+      internalID: -2259284254598314535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_10
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1917
+        width: 230
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3cb7abe4a96f7d0800000000000000
+      internalID: -2884948848357424149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_11
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1923
+        width: 266
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a7d5050f8dcbf30800000000000000
+      internalID: 4592784246663117342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1330
+        width: 306
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d5857196caf760800000000000000
+      internalID: 7492519258128504062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_13
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1336
+        width: 339
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153fb34425c702f0800000000000000
+      internalID: -1006619232147917548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_14
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1342
+        width: 365
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad807ac154c51d0800000000000000
+      internalID: -3360735232561456638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_15
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1339
+        width: 351
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119a33cb3200ade0800000000000000
+      internalID: -1324055834745204453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_16
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1337
+        width: 336
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af86f2b90129213e0800000000000000
+      internalID: -2084443077498410758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_17
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 1334
+        width: 287
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221def84d72ad49c0800000000000000
+      internalID: -3941315439900045022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 732
+        width: 230
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7aa06451d18eba0800000000000000
+      internalID: -6059561321420380227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 729
+        width: 200
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4002ea31caedf0800000000000000
+      internalID: -150095178919555820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_20
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 715
+        width: 202
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2f081d525a8af20800000000000000
+      internalID: 3434176297717265126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_21
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 703
+        width: 202
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4237756d5ed6300800000000000000
+      internalID: 247106263328171177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_22
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 692
+        width: 202
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2b623a10092fd70800000000000000
+      internalID: 9075474535811560186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_23
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 682
+        width: 204
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc73fd1ce704f760800000000000000
+      internalID: 7490620790920150221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 71
+        width: 214
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9563379a5207711b0800000000000000
+      internalID: -5685952697472960935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_25
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 71
+        width: 213
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9b9a3f98abd1b40800000000000000
+      internalID: 5412687428830476716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_26
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 71
+        width: 212
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedea57cce9242bf0800000000000000
+      internalID: -350108774094410261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_27
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 71
+        width: 212
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1773562c9b699af0800000000000000
+      internalID: -389161574388762851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_28
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 71
+        width: 212
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36749da8e3fb33670800000000000000
+      internalID: 8517361595626112867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump kick_29
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 71
+        width: 213
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2354349da6c3a0800000000000000
+      internalID: -6645433348093956545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

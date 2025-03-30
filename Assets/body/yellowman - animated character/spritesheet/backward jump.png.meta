@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 5dc4d36b7f5a163499f1d2100027f2bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9179538284183675105
+    second: backward jump_0
+  - first:
+      213: 6612385150064401871
+    second: backward jump_1
+  - first:
+      213: 106473543017930997
+    second: backward jump_2
+  - first:
+      213: 7123807768972120802
+    second: backward jump_3
+  - first:
+      213: 5533238727077700569
+    second: backward jump_4
+  - first:
+      213: -1056426180965854814
+    second: backward jump_5
+  - first:
+      213: -5989553983588013034
+    second: backward jump_6
+  - first:
+      213: -2832131665934062659
+    second: backward jump_7
+  - first:
+      213: 7752122117664776140
+    second: backward jump_8
+  - first:
+      213: 2420833703741047297
+    second: backward jump_9
+  - first:
+      213: -870279309427166419
+    second: backward jump_10
+  - first:
+      213: -718376873850258946
+    second: backward jump_11
+  - first:
+      213: -4775311821967791248
+    second: backward jump_12
+  - first:
+      213: 8201900864679122404
+    second: backward jump_13
+  - first:
+      213: -3846875288862980946
+    second: backward jump_14
+  - first:
+      213: -9140091312406204831
+    second: backward jump_15
+  - first:
+      213: -3186831107736917788
+    second: backward jump_16
+  - first:
+      213: -3069261899283023790
+    second: backward jump_17
+  - first:
+      213: 229412060010268870
+    second: backward jump_18
+  - first:
+      213: 7558314066812291448
+    second: backward jump_19
+  - first:
+      213: 3558580560819487385
+    second: backward jump_20
+  - first:
+      213: 7791672412626370147
+    second: backward jump_21
+  - first:
+      213: 2343350996452350024
+    second: backward jump_22
+  - first:
+      213: 7152124504460629098
+    second: backward jump_23
+  - first:
+      213: 4436440637448159594
+    second: backward jump_24
+  - first:
+      213: 8022725050772338731
+    second: backward jump_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backward jump_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2471
+        width: 213
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0edd62f65446f70800000000000000
+      internalID: 9179538284183675105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2471
+        width: 212
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd18a39249e3cb50800000000000000
+      internalID: 6612385150064401871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_2
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2471
+        width: 212
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0af8d8f154a7100800000000000000
+      internalID: 106473543017930997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_3
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2471
+        width: 212
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e250cd1c69dcd260800000000000000
+      internalID: 7123807768972120802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_4
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 2504
+        width: 192
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3a6e05e430acc40800000000000000
+      internalID: 5533238727077700569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_5
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 2542
+        width: 183
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a19b105cf1d651f0800000000000000
+      internalID: -1056426180965854814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1998
+        width: 198
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce53dc264d0eca0800000000000000
+      internalID: -5989553983588013034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2046
+        width: 290
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb6dde414f32b8d0800000000000000
+      internalID: -2832131665934062659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_8
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1999
+        width: 170
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf9bd65ef1159b60800000000000000
+      internalID: 7752122117664776140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_9
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1992
+        width: 150
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10247cb6d67889120800000000000000
+      internalID: 2420833703741047297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_10
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2007
+        width: 169
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23b83a34952ce3f0800000000000000
+      internalID: -870279309427166419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_11
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2023
+        width: 199
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bc431a00d706f0800000000000000
+      internalID: -718376873850258946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1464
+        width: 263
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be2e7d23faabdb0800000000000000
+      internalID: -4775311821967791248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1456
+        width: 289
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e51b22816103d170800000000000000
+      internalID: 8201900864679122404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_14
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1436
+        width: 270
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea408107e472d9ac0800000000000000
+      internalID: -3846875288862980946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_15
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1368
+        width: 259
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee46da06fd72180800000000000000
+      internalID: -9140091312406204831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_16
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1352
+        width: 250
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e82d28fdf916c3d0800000000000000
+      internalID: -3186831107736917788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_17
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 1337
+        width: 275
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2583892709ac765d0800000000000000
+      internalID: -3069261899283023790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 725
+        width: 256
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c84a189d090f2300800000000000000
+      internalID: 229412060010268870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_19
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 714
+        width: 232
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794f2d199684e860800000000000000
+      internalID: 7558314066812291448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_20
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 701
+        width: 235
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99281487a2e926130800000000000000
+      internalID: 3558580560819487385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_21
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 688
+        width: 233
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3ec8f6c4912c60800000000000000
+      internalID: 7791672412626370147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_22
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 674
+        width: 229
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848999fc051458020800000000000000
+      internalID: 2343350996452350024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_23
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 674
+        width: 219
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a641ebdd753714360800000000000000
+      internalID: 7152124504460629098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 74
+        width: 207
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6184362147619d30800000000000000
+      internalID: 4436440637448159594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backward jump_25
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 71
+        width: 213
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28b9ed6de1765f60800000000000000
+      internalID: 8022725050772338731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

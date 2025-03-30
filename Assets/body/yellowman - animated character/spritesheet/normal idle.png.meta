@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 03319659475da4441aa8f1e59d87926f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6311468506405668541
+    second: normal idle_0
+  - first:
+      213: 6412521597561129453
+    second: normal idle_1
+  - first:
+      213: -8464367062442146569
+    second: normal idle_2
+  - first:
+      213: 4190388990845455758
+    second: normal idle_3
+  - first:
+      213: 872411024119441355
+    second: normal idle_4
+  - first:
+      213: 2493507432487632240
+    second: normal idle_5
+  - first:
+      213: 2503020304401993270
+    second: normal idle_6
+  - first:
+      213: 8611373894172972036
+    second: normal idle_7
+  - first:
+      213: -2927773009229051286
+    second: normal idle_8
+  - first:
+      213: -4290879917887904670
+    second: normal idle_9
+  - first:
+      213: 584832658620107050
+    second: normal idle_10
+  - first:
+      213: 4084695531258805691
+    second: normal idle_11
+  - first:
+      213: 7230602000688696047
+    second: normal idle_12
+  - first:
+      213: -4989663966700984257
+    second: normal idle_13
+  - first:
+      213: -238124499011558698
+    second: normal idle_14
+  - first:
+      213: -4578677921169711217
+    second: normal idle_15
+  - first:
+      213: 8792588649989628909
+    second: normal idle_16
+  - first:
+      213: -7287147777019378331
+    second: normal idle_17
+  - first:
+      213: -1985967817842614128
+    second: normal idle_18
+  - first:
+      213: 7920748780105515247
+    second: normal idle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: normal idle_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1871
+        width: 135
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6006fba27d69750800000000000000
+      internalID: 6311468506405668541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_1
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1871
+        width: 136
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9c6210b6addf850800000000000000
+      internalID: 6412521597561129453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_2
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1871
+        width: 136
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f48e9ab007888a80800000000000000
+      internalID: -8464367062442146569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_3
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1871
+        width: 136
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d0d06e590472a30800000000000000
+      internalID: 4190388990845455758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_4
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1871
+        width: 137
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc726c6443d6b1c00800000000000000
+      internalID: 872411024119441355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_5
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1871
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07db8367cc7ba9220800000000000000
+      internalID: 2493507432487632240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1271
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e887d84b38cb220800000000000000
+      internalID: 2503020304401993270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1271
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40490468eeeb18770800000000000000
+      internalID: 8611373894172972036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_8
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1271
+        width: 138
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a0de9c5f57e57d0800000000000000
+      internalID: -2927773009229051286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_9
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 1271
+        width: 138
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2642f60e27bb374c0800000000000000
+      internalID: -4290879917887904670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_10
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1271
+        width: 138
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a294916543ebd1800800000000000000
+      internalID: 584832658620107050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_11
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1271
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd7e4ca1f0cfa830800000000000000
+      internalID: 4084695531258805691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 671
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea4743d532485460800000000000000
+      internalID: 7230602000688696047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 671
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38a8340f0721cab0800000000000000
+      internalID: -4989663966700984257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_14
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 671
+        width: 137
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d22910a70302bcf0800000000000000
+      internalID: -238124499011558698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_15
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 671
+        width: 136
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f51c780b44570c0800000000000000
+      internalID: -4578677921169711217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_16
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 671
+        width: 136
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de363c2cacc850a70800000000000000
+      internalID: 8792588649989628909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_17
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 671
+        width: 136
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658bfca4b9deda90800000000000000
+      internalID: -7287147777019378331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 136
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0902222bacc6074e0800000000000000
+      internalID: -1985967817842614128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal idle_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 71
+        width: 135
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04c41bc072ced60800000000000000
+      internalID: 7920748780105515247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
